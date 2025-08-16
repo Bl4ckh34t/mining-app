@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as t,o as a}from"./index-D_nFClg5.js";const n={},c={class:"about-page"};function r(l,e){return a(),s("main",c,e[0]||(e[0]=[t("h1",null,"About",-1),t("p",null,"This is the about page",-1)]))}const _=o(n,[["render",r]]);export{_ as default};
